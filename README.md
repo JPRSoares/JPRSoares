@@ -18,7 +18,7 @@ Currently enhancing my full-stack development skills through a Bootcamp at Code 
 Feel free to reach out for collaborations or just a chat:
 
 - 📫 [Email](mailto:soareswebmarketing@gmail.com)
-- 💼 [LinkedIn]([linkedin.com/in/jpsoaresweb/)
+- 💼 [LinkedIn](linkedin.com/in/jpsoaresweb)
 
 ## Contributions Welcome!
 
